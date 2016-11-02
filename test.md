@@ -5,7 +5,7 @@
 - [dalvik详细介绍](http://www.slideshare.net/jserv/understanding-the-dalvik-virtual-machine?from_search=4)
 - [dalvik vs ART](http://www.slideshare.net/limaniBhavik/artaot-vs-dalvikjit?next_slideshow=1)
 
-![aadf.png](http://upload-images.jianshu.io/upload_images/1976083-e1bb036ac9a8fa5d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![aadf.png](images/android-apk-build-flow.png)
 
 
 ## 事件
